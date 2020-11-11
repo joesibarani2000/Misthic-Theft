@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 54e7ccb99cc3f964fb578fd3b23150dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5206057527077369278
+    second: Babi Spawn_0
+  - first:
+      213: -6220430656491811866
+    second: Babi Spawn_1
+  - first:
+      213: 1312945820983260230
+    second: Babi Spawn_2
+  - first:
+      213: -6445240657996158004
+    second: Babi Spawn_3
+  - first:
+      213: -4187233380107731475
+    second: Babi Spawn_4
+  - first:
+      213: -7461510794944543567
+    second: Babi Spawn_5
+  - first:
+      213: 7955862554408814119
+    second: Babi Spawn_6
+  - first:
+      213: 4786249208553598808
+    second: Babi Spawn_7
+  - first:
+      213: 4618778474282778451
+    second: Babi Spawn_8
+  - first:
+      213: -1637199586702196680
+    second: Babi Spawn_9
+  - first:
+      213: 5770549299976109394
+    second: Babi Spawn_10
+  - first:
+      213: 1478516954045985214
+    second: Babi Spawn_11
+  - first:
+      213: -4240896859257671269
+    second: Babi Spawn_12
+  - first:
+      213: -1840277306344771899
+    second: Babi Spawn_13
+  - first:
+      213: -4035192559237554633
+    second: Babi Spawn_14
+  - first:
+      213: 7449872719262521854
+    second: Babi Spawn_15
+  - first:
+      213: -4282991516048889491
+    second: Babi Spawn_16
+  - first:
+      213: -8922138168563705798
+    second: Babi Spawn_17
+  - first:
+      213: -7016464274486358674
+    second: Babi Spawn_18
+  - first:
+      213: 6380867191476047576
+    second: Babi Spawn_19
+  - first:
+      213: -5747307957376648702
+    second: Babi Spawn_20
+  - first:
+      213: -8523854875055647726
+    second: Babi Spawn_21
+  - first:
+      213: -5117142986729959913
+    second: Babi Spawn_22
+  - first:
+      213: 3982185591929447701
+    second: Babi Spawn_23
+  - first:
+      213: -4370551169652165633
+    second: Babi Spawn_24
+  - first:
+      213: -8936713129730717754
+    second: Babi Spawn_25
+  - first:
+      213: 7340793060657598331
+    second: Babi Spawn_26
+  - first:
+      213: 6147875470678619682
+    second: Babi Spawn_27
+  - first:
+      213: 4691266855476344749
+    second: Babi Spawn_28
+  - first:
+      213: 609532807537716570
+    second: Babi Spawn_29
+  - first:
+      213: -7133642780172880432
+    second: Babi Spawn_30
+  - first:
+      213: 2986006231787109599
+    second: Babi Spawn_31
+  - first:
+      213: 7592217116169391255
+    second: Babi Spawn_32
+  - first:
+      213: -3416263203289229277
+    second: Babi Spawn_33
+  - first:
+      213: -7647353202706251857
+    second: Babi Spawn_34
+  - first:
+      213: 8513468238649383686
+    second: Babi Spawn_35
+  - first:
+      213: 5380738868698120992
+    second: Babi Spawn_36
+  - first:
+      213: 2482345579603686708
+    second: Babi Spawn_37
+  - first:
+      213: -3716232633064116934
+    second: Babi Spawn_38
+  - first:
+      213: -6204741799318932613
+    second: Babi Spawn_39
+  - first:
+      213: -459883594856584586
+    second: Babi Spawn_40
+  - first:
+      213: -3750560339993246944
+    second: Babi Spawn_41
+  - first:
+      213: 2979130142206816353
+    second: Babi Spawn_42
+  - first:
+      213: 8080748151568561099
+    second: Babi Spawn_43
+  - first:
+      213: -2971265465012912961
+    second: Babi Spawn_44
+  - first:
+      213: 2509760158130687939
+    second: Babi Spawn_45
+  - first:
+      213: 8440708518530611716
+    second: Babi Spawn_46
+  - first:
+      213: -8574333661324738512
+    second: Babi Spawn_47
+  - first:
+      213: -6584692950319189574
+    second: Babi Spawn_48
+  - first:
+      213: -4918353016730369835
+    second: Babi Spawn_49
+  - first:
+      213: 7235377804073183195
+    second: Babi Spawn_50
+  - first:
+      213: -1639467636276172656
+    second: Babi Spawn_51
+  - first:
+      213: 3132586690301513589
+    second: Babi Spawn_52
+  - first:
+      213: -4196129408177236139
+    second: Babi Spawn_53
+  - first:
+      213: -9005281807406522177
+    second: Babi Spawn_54
+  - first:
+      213: 7375476691704512936
+    second: Babi Spawn_55
+  - first:
+      213: 9207442283295626664
+    second: Babi Spawn_56
+  - first:
+      213: 6547121504605019591
+    second: Babi Spawn_57
+  - first:
+      213: -2025257442468666544
+    second: Babi Spawn_58
+  - first:
+      213: -1511320254095816047
+    second: Babi Spawn_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Babi Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0e42134e50c7b0800000000000000
+      internalID: -5206057527077369278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb0bd176479ca9a0800000000000000
+      internalID: -6220430656491811866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6447a059445883210800000000000000
+      internalID: 1312945820983260230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbeb3815c7ed86a0800000000000000
+      internalID: -6445240657996158004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded350bfc65f3e5c0800000000000000
+      internalID: -4187233380107731475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4869bf673637890800000000000000
+      internalID: -7461510794944543567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7268e5d57d6e86e60800000000000000
+      internalID: 7955862554408814119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe45aeb4c2c6240800000000000000
+      internalID: 4786249208553598808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f78df0d82391040800000000000000
+      internalID: 4618778474282778451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830033076af7749e0800000000000000
+      internalID: -1637199586702196680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d74ffb30c151050800000000000000
+      internalID: 5770549299976109394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1bd40165fb48410800000000000000
+      internalID: 1478516954045985214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9170e696ce4525c0800000000000000
+      internalID: -4240896859257671269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 0
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6b134a850676e0800000000000000
+      internalID: -1840277306344771899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e985a2fbd1008c0800000000000000
+      internalID: -4035192559237554633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9148d54c3436760800000000000000
+      internalID: 7449872719262521854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e4ed88e1cf84c0800000000000000
+      internalID: -4282991516048889491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385ec17b923e2480800000000000000
+      internalID: -8922138168563705798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 0
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d850ccae280ae90800000000000000
+      internalID: -7016464274486358674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8decfd247e46d8850800000000000000
+      internalID: 6380867191476047576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af9c10dd57d30b0800000000000000
+      internalID: -5747307957376648702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_21
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149357072f25b980800000000000000
+      internalID: -8523854875055647726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_22
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e441bb0914cf8b0800000000000000
+      internalID: -5117142986729959913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_23
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 0
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51522a482b0934730800000000000000
+      internalID: 3982185591929447701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_24
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 0
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f63c0edea853c0800000000000000
+      internalID: -4370551169652165633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_25
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 0
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c4dad1ca6af380800000000000000
+      internalID: -8936713129730717754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_26
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f062e356cbfd560800000000000000
+      internalID: 7340793060657598331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_27
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 0
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f221fa24a15550800000000000000
+      internalID: 6147875470678619682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_28
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 0
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73b33895aba1140800000000000000
+      internalID: 4691266855476344749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_29
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d6b38ebde757800800000000000000
+      internalID: 609532807537716570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_30
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f345efa5300d90800000000000000
+      internalID: -7133642780172880432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_31
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 0
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf5c6e8dc607920800000000000000
+      internalID: 2986006231787109599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_32
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccaeaed39fc5960800000000000000
+      internalID: 7592217116169391255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_33
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32815bc77bef690d0800000000000000
+      internalID: -3416263203289229277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_34
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 0
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7fb097c42fd590800000000000000
+      internalID: -7647353202706251857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_35
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 0
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b544bb14ae52670800000000000000
+      internalID: 8513468238649383686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_36
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02383e12e793caa40800000000000000
+      internalID: 5380738868698120992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_37
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 0
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435f9021720137220800000000000000
+      internalID: 2482345579603686708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_38
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 0
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3daf731c1a4d6cc0800000000000000
+      internalID: -3716232633064116934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_39
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 0
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b398253454e9a0800000000000000
+      internalID: -6204741799318932613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_40
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 0
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2b8a9e4a2e99f0800000000000000
+      internalID: -459883594856584586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_41
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 0
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c80afd3553fbc0800000000000000
+      internalID: -3750560339993246944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_42
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 0
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16075e9841ff75920800000000000000
+      internalID: 2979130142206816353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_43
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 0
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc373a551a5942070800000000000000
+      internalID: 8080748151568561099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_44
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 0
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf4805dc1f3c6d0800000000000000
+      internalID: -2971265465012912961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_45
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 0
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfcec8019574d220800000000000000
+      internalID: 2509760158130687939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_46
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 0
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a71a34dab632570800000000000000
+      internalID: 8440708518530611716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_47
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 0
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030801bb6f8d10980800000000000000
+      internalID: -8574333661324738512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_48
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b43d16a87e94a0800000000000000
+      internalID: -6584692950319189574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_49
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c0d56dff7ebbb0800000000000000
+      internalID: -4918353016730369835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_50
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 0
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7278337c9396460800000000000000
+      internalID: 7235377804073183195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_51
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098620ffed07f39e0800000000000000
+      internalID: -1639467636276172656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_52
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 0
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc9876ffe297b20800000000000000
+      internalID: 3132586690301513589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_53
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 0
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557960a098a54c5c0800000000000000
+      internalID: -4196129408177236139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_54
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 0
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02f3f78efc60380800000000000000
+      internalID: -9005281807406522177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_55
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 0
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1883269f4fa5660800000000000000
+      internalID: 7375476691704512936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_56
+      rect:
+        serializedVersion: 2
+        x: 4770
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a55fb939f767cf70800000000000000
+      internalID: 9207442283295626664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_57
+      rect:
+        serializedVersion: 2
+        x: 4849
+        y: 0
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9d4ff15c0cda50800000000000000
+      internalID: 6547121504605019591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05360fa1617d4e3e0800000000000000
+      internalID: -2025257442468666544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a04c87c36b60be0800000000000000
+      internalID: -1511320254095816047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

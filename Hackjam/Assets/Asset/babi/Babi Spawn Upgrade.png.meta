@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 332800aa7361898438eab21468c4d059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7954098223777884245
+    second: Babi Spawn Upgrade_0
+  - first:
+      213: 5926087473863147347
+    second: Babi Spawn Upgrade_1
+  - first:
+      213: -3330520561913634929
+    second: Babi Spawn Upgrade_2
+  - first:
+      213: -4233192533237669785
+    second: Babi Spawn Upgrade_3
+  - first:
+      213: 2619335251411563983
+    second: Babi Spawn Upgrade_4
+  - first:
+      213: -735490042667788849
+    second: Babi Spawn Upgrade_5
+  - first:
+      213: 7783931293109791531
+    second: Babi Spawn Upgrade_6
+  - first:
+      213: 4483569068866652985
+    second: Babi Spawn Upgrade_7
+  - first:
+      213: 4765417598328967450
+    second: Babi Spawn Upgrade_8
+  - first:
+      213: -6344585575625221210
+    second: Babi Spawn Upgrade_9
+  - first:
+      213: 3254599838782637363
+    second: Babi Spawn Upgrade_10
+  - first:
+      213: 584998132999178857
+    second: Babi Spawn Upgrade_11
+  - first:
+      213: 5134606074998376475
+    second: Babi Spawn Upgrade_12
+  - first:
+      213: 6635161947238321840
+    second: Babi Spawn Upgrade_13
+  - first:
+      213: 4189111364343599995
+    second: Babi Spawn Upgrade_14
+  - first:
+      213: -1784920993120284339
+    second: Babi Spawn Upgrade_15
+  - first:
+      213: 6296346105848694620
+    second: Babi Spawn Upgrade_16
+  - first:
+      213: -5025885148161577012
+    second: Babi Spawn Upgrade_17
+  - first:
+      213: 8886238149205893442
+    second: Babi Spawn Upgrade_18
+  - first:
+      213: -1612330954471146384
+    second: Babi Spawn Upgrade_19
+  - first:
+      213: -7831319022977295530
+    second: Babi Spawn Upgrade_20
+  - first:
+      213: -2617548170718451845
+    second: Babi Spawn Upgrade_21
+  - first:
+      213: -2480844806388536832
+    second: Babi Spawn Upgrade_22
+  - first:
+      213: 4982959692524519077
+    second: Babi Spawn Upgrade_23
+  - first:
+      213: 2929778236641791357
+    second: Babi Spawn Upgrade_24
+  - first:
+      213: 2385553978835646934
+    second: Babi Spawn Upgrade_25
+  - first:
+      213: 2175211690312876170
+    second: Babi Spawn Upgrade_26
+  - first:
+      213: 3809785113723878796
+    second: Babi Spawn Upgrade_27
+  - first:
+      213: 8471868303491462937
+    second: Babi Spawn Upgrade_28
+  - first:
+      213: -8932737208193390123
+    second: Babi Spawn Upgrade_29
+  - first:
+      213: -3203823366319479418
+    second: Babi Spawn Upgrade_30
+  - first:
+      213: -2501346839879789714
+    second: Babi Spawn Upgrade_31
+  - first:
+      213: -200692497083683615
+    second: Babi Spawn Upgrade_32
+  - first:
+      213: 4402784447452822588
+    second: Babi Spawn Upgrade_33
+  - first:
+      213: -7172364501864103193
+    second: Babi Spawn Upgrade_34
+  - first:
+      213: -4241834372103493538
+    second: Babi Spawn Upgrade_35
+  - first:
+      213: -7458630884041884496
+    second: Babi Spawn Upgrade_36
+  - first:
+      213: -3848735045233499816
+    second: Babi Spawn Upgrade_37
+  - first:
+      213: 143804109090841501
+    second: Babi Spawn Upgrade_38
+  - first:
+      213: 300948162576173513
+    second: Babi Spawn Upgrade_39
+  - first:
+      213: -1162634068912572102
+    second: Babi Spawn Upgrade_40
+  - first:
+      213: -2081983225267257166
+    second: Babi Spawn Upgrade_41
+  - first:
+      213: -2877298568056809857
+    second: Babi Spawn Upgrade_42
+  - first:
+      213: 1819747790122159662
+    second: Babi Spawn Upgrade_43
+  - first:
+      213: -7357436641415177084
+    second: Babi Spawn Upgrade_44
+  - first:
+      213: -4963898358656578949
+    second: Babi Spawn Upgrade_45
+  - first:
+      213: 2759037167357002269
+    second: Babi Spawn Upgrade_46
+  - first:
+      213: 1000051255076328723
+    second: Babi Spawn Upgrade_47
+  - first:
+      213: 825436473923341219
+    second: Babi Spawn Upgrade_48
+  - first:
+      213: 5479806653179122499
+    second: Babi Spawn Upgrade_49
+  - first:
+      213: -9136306762806066480
+    second: Babi Spawn Upgrade_50
+  - first:
+      213: 7933157756237748064
+    second: Babi Spawn Upgrade_51
+  - first:
+      213: -1936050236708599227
+    second: Babi Spawn Upgrade_52
+  - first:
+      213: 6168660503761368310
+    second: Babi Spawn Upgrade_53
+  - first:
+      213: 5590780358603738394
+    second: Babi Spawn Upgrade_54
+  - first:
+      213: -5402537157015825084
+    second: Babi Spawn Upgrade_55
+  - first:
+      213: -8068225365559215511
+    second: Babi Spawn Upgrade_56
+  - first:
+      213: 8586465734707555705
+    second: Babi Spawn Upgrade_57
+  - first:
+      213: -5946850883701058831
+    second: Babi Spawn Upgrade_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7572fdecd5d9190800000000000000
+      internalID: -7954098223777884245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3183e821bd3250800000000000000
+      internalID: 5926087473863147347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd00ed13d97c1d0800000000000000
+      internalID: -3330520561913634929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606886c1dda045c0800000000000000
+      internalID: -4233192533237669785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 10
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57b08888fb95420800000000000000
+      internalID: 2619335251411563983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc513f6f3b30bc5f0800000000000000
+      internalID: -735490042667788849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2bd12544160c60800000000000000
+      internalID: 7783931293109791531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc9bb2056d83e30800000000000000
+      internalID: 4483569068866652985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111bc2be0a222240800000000000000
+      internalID: 4765417598328967450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 6
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9ac5b80183f7a0800000000000000
+      internalID: -6344585575625221210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 7
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ceac4f49aa2d20800000000000000
+      internalID: 3254599838782637363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96acea7d3b45e1800800000000000000
+      internalID: 584998132999178857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1847d95509c14740800000000000000
+      internalID: 5134606074998376475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_13
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 9
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be445ce2a4d41c50800000000000000
+      internalID: 6635161947238321840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_14
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73904c4796b22a30800000000000000
+      internalID: 4189111364343599995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419dec40dfaa37e0800000000000000
+      internalID: -1784920993120284339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_16
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57860e7c6d116750800000000000000
+      internalID: 6296346105848694620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfeae50618704ab0800000000000000
+      internalID: -5025885148161577012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_18
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24121f0f382425b70800000000000000
+      internalID: 8886238149205893442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_19
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c71661a89df99e0800000000000000
+      internalID: -1612330954471146384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_20
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 7
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdda837d0915390800000000000000
+      internalID: -7831319022977295530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_21
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776add9ec99cabd0800000000000000
+      internalID: -2617548170718451845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_22
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 7
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa65ceac4429dd0800000000000000
+      internalID: -2480844806388536832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_23
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae73038077072540800000000000000
+      internalID: 4982959692524519077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_24
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 7
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d44b998c9a8a820800000000000000
+      internalID: 2929778236641791357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_25
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b40d54b03b1120800000000000000
+      internalID: 2385553978835646934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_26
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804060f187ef2e10800000000000000
+      internalID: 2175211690312876170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_27
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d351630631fd430800000000000000
+      internalID: 3809785113723878796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_28
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ff7d065f129570800000000000000
+      internalID: 8471868303491462937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_29
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e7b936da880480800000000000000
+      internalID: -8932737208193390123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_30
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856e677f9bb983d0800000000000000
+      internalID: -3203823366319479418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_31
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635be44d4e694dd0800000000000000
+      internalID: -2501346839879789714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_32
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecad3abc3ff63df0800000000000000
+      internalID: -200692497083683615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_33
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3a05c025d91d30800000000000000
+      internalID: 4402784447452822588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_34
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c4c28c74a67c90800000000000000
+      internalID: -7172364501864103193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_35
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58aabedc1af125c0800000000000000
+      internalID: -4241834372103493538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_36
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcfced7abe9d7890800000000000000
+      internalID: -7458630884041884496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_37
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a24a2edb869ac0800000000000000
+      internalID: -3848735045233499816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_38
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e9974315eef100800000000000000
+      internalID: 143804109090841501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_39
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9c82662ce2d2400800000000000000
+      internalID: 300948162576173513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_40
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39f2b6697e7ddfe0800000000000000
+      internalID: -1162634068912572102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_41
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b08f95994f4b13e0800000000000000
+      internalID: -2081983225267257166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_42
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76db3a6238c118d0800000000000000
+      internalID: -2877298568056809857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_43
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e880349fa014910800000000000000
+      internalID: 1819747790122159662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_44
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c51032b5225e990800000000000000
+      internalID: -7357436641415177084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_45
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a412f1eb0bc1bb0800000000000000
+      internalID: -4963898358656578949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_46
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120a6a8fa11a4620800000000000000
+      internalID: 2759037167357002269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_47
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31512086155e0ed00800000000000000
+      internalID: 1000051255076328723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_48
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0ad4891a847b00800000000000000
+      internalID: 825436473923341219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_49
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34350982e1f2c0c40800000000000000
+      internalID: 5479806653179122499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_50
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d202fbc761553180800000000000000
+      internalID: -9136306762806066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_51
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0679fa792fc381e60800000000000000
+      internalID: 7933157756237748064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_52
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a4cad3194c125e0800000000000000
+      internalID: -1936050236708599227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_53
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4bda29b0c7b9550800000000000000
+      internalID: 6168660503761368310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_54
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 7
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d8ecb6d11769d40800000000000000
+      internalID: 5590780358603738394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_55
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445193e54155605b0800000000000000
+      internalID: -5402537157015825084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_56
+      rect:
+        serializedVersion: 2
+        x: 4721
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afb0ef6c7e70090800000000000000
+      internalID: -8068225365559215511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_57
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 7
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dae49b711492770800000000000000
+      internalID: 8586465734707555705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Babi Spawn Upgrade_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d7c801aa887da0800000000000000
+      internalID: -5946850883701058831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

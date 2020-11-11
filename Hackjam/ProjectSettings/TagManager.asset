@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - Rooms
+  - SpawnPoint
+  - Item
+  - Item 2
+  - NPC
+  - Closed
+  - Enemy
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - playerbody
+  - character
+  - wall
+  - Overlay
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3845942967
+    locked: 0
+  - name: enemies
+    uniqueID: 1196169235
+    locked: 0
+  - name: Overlay
+    uniqueID: 1984689537
+    locked: 0

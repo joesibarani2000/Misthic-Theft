@@ -1,0 +1,2690 @@
+fileFormatVersion: 2
+guid: 1e2323ffbc6a30e4d813d96ab93856ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2251246197671078990
+    second: Alert Animated_0
+  - first:
+      213: 6533500514530770696
+    second: Alert Animated_1
+  - first:
+      213: -3228481862079027710
+    second: Alert Animated_2
+  - first:
+      213: 7797137959645592297
+    second: Alert Animated_3
+  - first:
+      213: -249160921326250151
+    second: Alert Animated_4
+  - first:
+      213: -7789130070164159663
+    second: Alert Animated_5
+  - first:
+      213: -4147500902991894174
+    second: Alert Animated_6
+  - first:
+      213: 5661079722267822022
+    second: Alert Animated_7
+  - first:
+      213: -8432463340251630471
+    second: Alert Animated_8
+  - first:
+      213: 2957616647801566439
+    second: Alert Animated_9
+  - first:
+      213: -1307270053803882347
+    second: Alert Animated_10
+  - first:
+      213: 5560203552195973986
+    second: Alert Animated_11
+  - first:
+      213: -7579353732288864043
+    second: Alert Animated_12
+  - first:
+      213: -6743059690151899438
+    second: Alert Animated_13
+  - first:
+      213: -5266477848924059517
+    second: Alert Animated_14
+  - first:
+      213: -4434563666207421443
+    second: Alert Animated_15
+  - first:
+      213: -4486308342037124089
+    second: Alert Animated_16
+  - first:
+      213: -6499858983433011001
+    second: Alert Animated_17
+  - first:
+      213: -1239520470921347144
+    second: Alert Animated_18
+  - first:
+      213: 2215755510770628032
+    second: Alert Animated_19
+  - first:
+      213: 5016709081814116182
+    second: Alert Animated_20
+  - first:
+      213: 8260474656935227753
+    second: Alert Animated_21
+  - first:
+      213: 6208796743995337483
+    second: Alert Animated_22
+  - first:
+      213: 1597452769886325220
+    second: Alert Animated_23
+  - first:
+      213: 1819960936243695375
+    second: Alert Animated_24
+  - first:
+      213: -5193006841616091892
+    second: Alert Animated_25
+  - first:
+      213: -5807402286521367947
+    second: Alert Animated_26
+  - first:
+      213: 4175036433664844399
+    second: Alert Animated_27
+  - first:
+      213: -7041474122827364780
+    second: Alert Animated_28
+  - first:
+      213: -7723411751296737945
+    second: Alert Animated_29
+  - first:
+      213: 8805345928402149828
+    second: Alert Animated_30
+  - first:
+      213: -9203850778108762126
+    second: Alert Animated_31
+  - first:
+      213: 3178388469161567424
+    second: Alert Animated_32
+  - first:
+      213: -1442484514312003362
+    second: Alert Animated_33
+  - first:
+      213: -5882920457111891766
+    second: Alert Animated_34
+  - first:
+      213: -3062503088870083714
+    second: Alert Animated_35
+  - first:
+      213: -4060058119121075597
+    second: Alert Animated_36
+  - first:
+      213: -3074075602497841744
+    second: Alert Animated_37
+  - first:
+      213: -8993132643837614602
+    second: Alert Animated_38
+  - first:
+      213: -4169854596574312230
+    second: Alert Animated_39
+  - first:
+      213: 3773951468194790792
+    second: Alert Animated_40
+  - first:
+      213: 5004885143072189940
+    second: Alert Animated_41
+  - first:
+      213: -7860562151773851232
+    second: Alert Animated_42
+  - first:
+      213: 9094858574070145657
+    second: Alert Animated_43
+  - first:
+      213: 1118907543442254522
+    second: Alert Animated_44
+  - first:
+      213: -8698991092303718665
+    second: Alert Animated_45
+  - first:
+      213: 6353434600072288532
+    second: Alert Animated_46
+  - first:
+      213: 2377688484980264860
+    second: Alert Animated_47
+  - first:
+      213: -7189788910677146816
+    second: Alert Animated_48
+  - first:
+      213: 815917461679044718
+    second: Alert Animated_49
+  - first:
+      213: 8054227624090260123
+    second: Alert Animated_50
+  - first:
+      213: 1326485335815978035
+    second: Alert Animated_51
+  - first:
+      213: -4647680609929553285
+    second: Alert Animated_52
+  - first:
+      213: -7631183000607881683
+    second: Alert Animated_53
+  - first:
+      213: 2273466792112565665
+    second: Alert Animated_54
+  - first:
+      213: -4972114037215310918
+    second: Alert Animated_55
+  - first:
+      213: -6308650577642311907
+    second: Alert Animated_56
+  - first:
+      213: 5575371299757652005
+    second: Alert Animated_57
+  - first:
+      213: -1423686467069252210
+    second: Alert Animated_58
+  - first:
+      213: 8909872299702434742
+    second: Alert Animated_59
+  - first:
+      213: -6842331401550996804
+    second: Alert Animated_60
+  - first:
+      213: -4949120074886767116
+    second: Alert Animated_61
+  - first:
+      213: -3696326373644955697
+    second: Alert Animated_62
+  - first:
+      213: 2711470987293773453
+    second: Alert Animated_63
+  - first:
+      213: 3999409677091091069
+    second: Alert Animated_64
+  - first:
+      213: 143421849229531722
+    second: Alert Animated_65
+  - first:
+      213: 998927284866156300
+    second: Alert Animated_66
+  - first:
+      213: 8153213426518857831
+    second: Alert Animated_67
+  - first:
+      213: -2499995890874285749
+    second: Alert Animated_68
+  - first:
+      213: -3065726898188425074
+    second: Alert Animated_69
+  - first:
+      213: -6920016497154669416
+    second: Alert Animated_70
+  - first:
+      213: 2029374148963793837
+    second: Alert Animated_71
+  - first:
+      213: -4505632025105783635
+    second: Alert Animated_72
+  - first:
+      213: -6415924512085375198
+    second: Alert Animated_73
+  - first:
+      213: 3859651710405552981
+    second: Alert Animated_74
+  - first:
+      213: 2501893524076035898
+    second: Alert Animated_75
+  - first:
+      213: 984097501820525741
+    second: Alert Animated_76
+  - first:
+      213: 6672782373945178407
+    second: Alert Animated_77
+  - first:
+      213: -7967779680316376804
+    second: Alert Animated_78
+  - first:
+      213: -5354571422578120903
+    second: Alert Animated_79
+  - first:
+      213: 2272472945141328895
+    second: Alert Animated_80
+  - first:
+      213: -3673258701447720529
+    second: Alert Animated_81
+  - first:
+      213: -3053469791127769326
+    second: Alert Animated_82
+  - first:
+      213: 8694896734091704851
+    second: Alert Animated_83
+  - first:
+      213: 4638931107569394464
+    second: Alert Animated_84
+  - first:
+      213: 5907631957964267995
+    second: Alert Animated_85
+  - first:
+      213: 3703499368050470496
+    second: Alert Animated_86
+  - first:
+      213: 2135087621659173053
+    second: Alert Animated_87
+  - first:
+      213: -9197018456718267405
+    second: Alert Animated_88
+  - first:
+      213: -8381158509191827812
+    second: Alert Animated_89
+  - first:
+      213: -1393583334490126393
+    second: Alert Animated_90
+  - first:
+      213: -6977325026763684679
+    second: Alert Animated_91
+  - first:
+      213: -5369709537893425699
+    second: Alert Animated_92
+  - first:
+      213: 1827154818150670527
+    second: Alert Animated_93
+  - first:
+      213: -3217651519827275122
+    second: Alert Animated_94
+  - first:
+      213: 6435255811338561578
+    second: Alert Animated_95
+  - first:
+      213: 1103246109162951054
+    second: Alert Animated_96
+  - first:
+      213: 7275150513712551439
+    second: Alert Animated_97
+  - first:
+      213: 1110180437660922001
+    second: Alert Animated_98
+  - first:
+      213: -1535847897368295092
+    second: Alert Animated_99
+  - first:
+      213: 1338023071385262286
+    second: Alert Animated_100
+  - first:
+      213: 421197732411843275
+    second: Alert Animated_101
+  - first:
+      213: -8340656426532074077
+    second: Alert Animated_102
+  - first:
+      213: -5675386015440879724
+    second: Alert Animated_103
+  - first:
+      213: 2442078399019022373
+    second: Alert Animated_104
+  - first:
+      213: 6148272664643052359
+    second: Alert Animated_105
+  - first:
+      213: -7415077496170237171
+    second: Alert Animated_106
+  - first:
+      213: -1360459029602690984
+    second: Alert Animated_107
+  - first:
+      213: 5703313592589520551
+    second: Alert Animated_108
+  - first:
+      213: -5195349662810609484
+    second: Alert Animated_109
+  - first:
+      213: -6832466168374845025
+    second: Alert Animated_110
+  - first:
+      213: -5202641836913567012
+    second: Alert Animated_111
+  - first:
+      213: 5907230711381008530
+    second: Alert Animated_112
+  - first:
+      213: -5808353649781988815
+    second: Alert Animated_113
+  - first:
+      213: 4127656538135312517
+    second: Alert Animated_114
+  - first:
+      213: -4355595713982800800
+    second: Alert Animated_115
+  - first:
+      213: 4328956960300418336
+    second: Alert Animated_116
+  - first:
+      213: 1136421089404686576
+    second: Alert Animated_117
+  - first:
+      213: 3801189856354717464
+    second: Alert Animated_118
+  - first:
+      213: -4795410834408715363
+    second: Alert Animated_119
+  - first:
+      213: 5054663762004818467
+    second: Alert Animated_120
+  - first:
+      213: 5581388422021890006
+    second: Alert Animated_121
+  - first:
+      213: -8095844866312052123
+    second: Alert Animated_122
+  - first:
+      213: -5311885833726626241
+    second: Alert Animated_123
+  - first:
+      213: 1960802153252766942
+    second: Alert Animated_124
+  - first:
+      213: -1729593410336102335
+    second: Alert Animated_125
+  - first:
+      213: 8980733131495678792
+    second: Alert Animated_126
+  - first:
+      213: 394536736409185438
+    second: Alert Animated_127
+  - first:
+      213: -8099776389157582248
+    second: Alert Animated_128
+  - first:
+      213: 6875541522830442420
+    second: Alert Animated_129
+  - first:
+      213: 299186804458177144
+    second: Alert Animated_130
+  - first:
+      213: 2750607622746763877
+    second: Alert Animated_131
+  - first:
+      213: 3951291877213148117
+    second: Alert Animated_132
+  - first:
+      213: 5934845687580019562
+    second: Alert Animated_133
+  - first:
+      213: 2337411984579285835
+    second: Alert Animated_134
+  - first:
+      213: -6447564770297509845
+    second: Alert Animated_135
+  - first:
+      213: 5671631950204409166
+    second: Alert Animated_136
+  - first:
+      213: -2063762147724243163
+    second: Alert Animated_137
+  - first:
+      213: 7011219709767346168
+    second: Alert Animated_138
+  - first:
+      213: 645454727749813055
+    second: Alert Animated_139
+  - first:
+      213: 9068555024615515515
+    second: Alert Animated_140
+  - first:
+      213: -4938418342198649848
+    second: Alert Animated_141
+  - first:
+      213: -9070249709787131328
+    second: Alert Animated_142
+  - first:
+      213: 6008956256504711916
+    second: Alert Animated_143
+  - first:
+      213: -2450503997502729323
+    second: Alert Animated_144
+  - first:
+      213: 7734991930654383275
+    second: Alert Animated_145
+  - first:
+      213: -2695362415659402938
+    second: Alert Animated_146
+  - first:
+      213: 1272335653830527541
+    second: Alert Animated_147
+  - first:
+      213: 8429928789827987580
+    second: Alert Animated_148
+  - first:
+      213: 8707624266440302333
+    second: Alert Animated_149
+  - first:
+      213: -3515086526385952311
+    second: Alert Animated_150
+  - first:
+      213: -1503231318200354507
+    second: Alert Animated_151
+  - first:
+      213: 5177533064652651102
+    second: Alert Animated_152
+  - first:
+      213: 9120870328621981471
+    second: Alert Animated_153
+  - first:
+      213: -6147049673655824444
+    second: Alert Animated_154
+  - first:
+      213: 1642298329843432552
+    second: Alert Animated_155
+  - first:
+      213: -781497199323476142
+    second: Alert Animated_156
+  - first:
+      213: -7722862416156084878
+    second: Alert Animated_157
+  - first:
+      213: 1314828404000290572
+    second: Alert Animated_158
+  - first:
+      213: 4435593421239751779
+    second: Alert Animated_159
+  - first:
+      213: -125182109131412895
+    second: Alert Animated_160
+  - first:
+      213: -4738016417629735188
+    second: Alert Animated_161
+  - first:
+      213: 1725190013888937609
+    second: Alert Animated_162
+  - first:
+      213: -4063854697139344853
+    second: Alert Animated_163
+  - first:
+      213: -8835157265974569776
+    second: Alert Animated_164
+  - first:
+      213: 6309292895487883967
+    second: Alert Animated_165
+  - first:
+      213: -1676186742844241116
+    second: Alert Animated_166
+  - first:
+      213: -8385369080496089314
+    second: Alert Animated_167
+  - first:
+      213: 9123301901744414804
+    second: Alert Animated_168
+  - first:
+      213: 5685198086854417451
+    second: Alert Animated_169
+  - first:
+      213: -6098432595566653220
+    second: Alert Animated_170
+  - first:
+      213: 7498097857430684820
+    second: Alert Animated_171
+  - first:
+      213: -7684019719644777951
+    second: Alert Animated_172
+  - first:
+      213: -6105990717725321747
+    second: Alert Animated_173
+  - first:
+      213: 2912397680377712525
+    second: Alert Animated_174
+  - first:
+      213: 1156275728412550463
+    second: Alert Animated_175
+  - first:
+      213: 5185676070264918763
+    second: Alert Animated_176
+  - first:
+      213: 4904186481484859006
+    second: Alert Animated_177
+  - first:
+      213: -1153737024283909682
+    second: Alert Animated_178
+  - first:
+      213: 5114950611226764484
+    second: Alert Animated_179
+  - first:
+      213: 6186109411337490474
+    second: Alert Animated_180
+  - first:
+      213: 6230557706601814838
+    second: Alert Animated_181
+  - first:
+      213: 8218859349317548419
+    second: Alert Animated_182
+  - first:
+      213: -6288826667850671900
+    second: Alert Animated_183
+  - first:
+      213: 9202850001128684684
+    second: Alert Animated_184
+  - first:
+      213: -7585376778842706636
+    second: Alert Animated_185
+  - first:
+      213: -4546127252193613645
+    second: Alert Animated_186
+  - first:
+      213: -4369638855211362046
+    second: Alert Animated_187
+  - first:
+      213: -2251652148024094797
+    second: Alert Animated_188
+  - first:
+      213: 5284402276524703978
+    second: Alert Animated_189
+  - first:
+      213: -1473241186811851130
+    second: Alert Animated_190
+  - first:
+      213: -3087100210807778915
+    second: Alert Animated_191
+  - first:
+      213: 8880308684876528888
+    second: Alert Animated_192
+  - first:
+      213: 7386688858032915498
+    second: Alert Animated_193
+  - first:
+      213: 8267850592017616281
+    second: Alert Animated_194
+  - first:
+      213: -1882551436410157165
+    second: Alert Animated_195
+  - first:
+      213: -8279879782338668538
+    second: Alert Animated_196
+  - first:
+      213: 8877132081846184411
+    second: Alert Animated_197
+  - first:
+      213: -4126655027847657444
+    second: Alert Animated_198
+  - first:
+      213: 894120322745838461
+    second: Alert Animated_199
+  - first:
+      213: 5296977131529327985
+    second: Alert Animated_200
+  - first:
+      213: -6093295130890283317
+    second: Alert Animated_201
+  - first:
+      213: -3616149619742835348
+    second: Alert Animated_202
+  - first:
+      213: -8844255949973526051
+    second: Alert Animated_203
+  - first:
+      213: 5930610665284887980
+    second: Alert Animated_204
+  - first:
+      213: -5886210583710961431
+    second: Alert Animated_205
+  - first:
+      213: -4793227265018440179
+    second: Alert Animated_206
+  - first:
+      213: -6255640144143936050
+    second: Alert Animated_207
+  - first:
+      213: -6156449866991752431
+    second: Alert Animated_208
+  - first:
+      213: 3575047777494242288
+    second: Alert Animated_209
+  - first:
+      213: 3243091528410191496
+    second: Alert Animated_210
+  - first:
+      213: -4996776400626560364
+    second: Alert Animated_211
+  - first:
+      213: -4785752836109274960
+    second: Alert Animated_212
+  - first:
+      213: -1291530379942871603
+    second: Alert Animated_213
+  - first:
+      213: 8012087621234917459
+    second: Alert Animated_214
+  - first:
+      213: -5187968924436053964
+    second: Alert Animated_215
+  - first:
+      213: -4154610733261668708
+    second: Alert Animated_216
+  - first:
+      213: 6944796691380116410
+    second: Alert Animated_217
+  - first:
+      213: -8729376309281884836
+    second: Alert Animated_218
+  - first:
+      213: 125347581217252305
+    second: Alert Animated_219
+  - first:
+      213: 7803050613044604578
+    second: Alert Animated_220
+  - first:
+      213: 2534919205669192447
+    second: Alert Animated_221
+  - first:
+      213: 3791058625074105851
+    second: Alert Animated_222
+  - first:
+      213: 713455238563537748
+    second: Alert Animated_223
+  - first:
+      213: -492647303086046351
+    second: Alert Animated_224
+  - first:
+      213: -2552027967937465088
+    second: Alert Animated_225
+  - first:
+      213: 2260501115030429591
+    second: Alert Animated_226
+  - first:
+      213: -4235316425090079312
+    second: Alert Animated_227
+  - first:
+      213: -6442958705940649125
+    second: Alert Animated_228
+  - first:
+      213: -1150890917291225174
+    second: Alert Animated_229
+  - first:
+      213: 4695679061520427741
+    second: Alert Animated_230
+  - first:
+      213: -859503871858262499
+    second: Alert Animated_231
+  - first:
+      213: 5110177516379377348
+    second: Alert Animated_232
+  - first:
+      213: -3347993017333274780
+    second: Alert Animated_233
+  - first:
+      213: -4984760536385575469
+    second: Alert Animated_234
+  - first:
+      213: 351795306455714987
+    second: Alert Animated_235
+  - first:
+      213: 2367945414253443012
+    second: Alert Animated_236
+  - first:
+      213: 5704557491252467462
+    second: Alert Animated_237
+  - first:
+      213: 5139121510748188839
+    second: Alert Animated_238
+  - first:
+      213: -4313090545256484327
+    second: Alert Animated_239
+  - first:
+      213: 4317691488504948193
+    second: Alert Animated_240
+  - first:
+      213: 3035349361589422310
+    second: Alert Animated_241
+  - first:
+      213: -2166229797296597583
+    second: Alert Animated_242
+  - first:
+      213: 2889045011674896585
+    second: Alert Animated_243
+  - first:
+      213: -8967962906216131232
+    second: Alert Animated_244
+  - first:
+      213: 6432460439935917587
+    second: Alert Animated_245
+  - first:
+      213: -9022222450492839147
+    second: Alert Animated_246
+  - first:
+      213: -92606325825393801
+    second: Alert Animated_247
+  - first:
+      213: -3001703471330656654
+    second: Alert Animated_248
+  - first:
+      213: -997387770269531044
+    second: Alert Animated_249
+  - first:
+      213: -2710353654943129349
+    second: Alert Animated_250
+  - first:
+      213: -6834688406460777505
+    second: Alert Animated_251
+  - first:
+      213: -2400890346612072047
+    second: Alert Animated_252
+  - first:
+      213: 14687103251232713
+    second: Alert Animated_253
+  - first:
+      213: 3974122388988011916
+    second: Alert Animated_254
+  - first:
+      213: -9016738557617896586
+    second: Alert Animated_255
+  - first:
+      213: 2094177735730712939
+    second: Alert Animated_256
+  - first:
+      213: 7105451978911763289
+    second: Alert Animated_257
+  - first:
+      213: -4168356250200741230
+    second: Alert Animated_258
+  - first:
+      213: -2942815407206024626
+    second: Alert Animated_259
+  - first:
+      213: 312459719298926451
+    second: Alert Animated_260
+  - first:
+      213: -519583295449865675
+    second: Alert Animated_261
+  - first:
+      213: -7164621772804058180
+    second: Alert Animated_262
+  - first:
+      213: -750529945591792843
+    second: Alert Animated_263
+  - first:
+      213: 7476316747657139382
+    second: Alert Animated_264
+  - first:
+      213: 2432611336701845745
+    second: Alert Animated_265
+  - first:
+      213: 6050000690872400742
+    second: Alert Animated_266
+  - first:
+      213: -8200854195612509038
+    second: Alert Animated_267
+  - first:
+      213: -6088886417135368405
+    second: Alert Animated_268
+  - first:
+      213: -5659728279289654618
+    second: Alert Animated_269
+  - first:
+      213: -7785648433494615854
+    second: Alert Animated_270
+  - first:
+      213: 2070913465242202946
+    second: Alert Animated_271
+  - first:
+      213: 5970502276741929411
+    second: Alert Animated_272
+  - first:
+      213: 8010514602934748602
+    second: Alert Animated_273
+  - first:
+      213: -6843520550083255662
+    second: Alert Animated_274
+  - first:
+      213: 1199783559107356029
+    second: Alert Animated_275
+  - first:
+      213: -1103861417625704560
+    second: Alert Animated_276
+  - first:
+      213: 6603209631167486064
+    second: Alert Animated_277
+  - first:
+      213: 1574251775793948729
+    second: Alert Animated_278
+  - first:
+      213: -3197086639469011565
+    second: Alert Animated_279
+  - first:
+      213: 5600745266922845222
+    second: Alert Animated_280
+  - first:
+      213: -3917003457168948690
+    second: Alert Animated_281
+  - first:
+      213: 601421962591038558
+    second: Alert Animated_282
+  - first:
+      213: 1946862590963547368
+    second: Alert Animated_283
+  - first:
+      213: -6527562492641815197
+    second: Alert Animated_284
+  - first:
+      213: -2991686492168592863
+    second: Alert Animated_285
+  - first:
+      213: -7641266239814355599
+    second: Alert Animated_286
+  - first:
+      213: 4071755090073552110
+    second: Alert Animated_287
+  - first:
+      213: -3899645350560208689
+    second: Alert Animated_288
+  - first:
+      213: -4744273516921968052
+    second: Alert Animated_289
+  - first:
+      213: 5149461747535389509
+    second: Alert Animated_290
+  - first:
+      213: -5133799440840476202
+    second: Alert Animated_291
+  - first:
+      213: -6930841699323542024
+    second: Alert Animated_292
+  - first:
+      213: -6595279011405922981
+    second: Alert Animated_293
+  - first:
+      213: 2264435937639461070
+    second: Alert Animated_294
+  - first:
+      213: -6589387377246001343
+    second: Alert Animated_295
+  - first:
+      213: -4446913088962069941
+    second: Alert Animated_296
+  - first:
+      213: -2922099630141008761
+    second: Alert Animated_297
+  - first:
+      213: 7210736916601099222
+    second: Alert Animated_298
+  - first:
+      213: -5903980907899973076
+    second: Alert Animated_299
+  - first:
+      213: 9179842635590300948
+    second: Alert Animated_300
+  - first:
+      213: -317341067749907387
+    second: Alert Animated_301
+  - first:
+      213: -4456221007178952519
+    second: Alert Animated_302
+  - first:
+      213: -8332617515901464404
+    second: Alert Animated_303
+  - first:
+      213: 2475605718918333299
+    second: Alert Animated_304
+  - first:
+      213: 603385346398330920
+    second: Alert Animated_305
+  - first:
+      213: 856375066433362781
+    second: Alert Animated_306
+  - first:
+      213: -1994230940187131359
+    second: Alert Animated_307
+  - first:
+      213: 7162897777994882110
+    second: Alert Animated_308
+  - first:
+      213: 2947441346234456099
+    second: Alert Animated_309
+  - first:
+      213: -5706434519303920433
+    second: Alert Animated_310
+  - first:
+      213: -4524520747758862785
+    second: Alert Animated_311
+  - first:
+      213: -1439734874522279285
+    second: Alert Animated_312
+  - first:
+      213: -3263555616886751902
+    second: Alert Animated_313
+  - first:
+      213: 3379233213567881674
+    second: Alert Animated_314
+  - first:
+      213: -3344206581674717371
+    second: Alert Animated_315
+  - first:
+      213: 6861532643477818624
+    second: Alert Animated_316
+  - first:
+      213: -4570281996916058495
+    second: Alert Animated_317
+  - first:
+      213: -9097408495066690317
+    second: Alert Animated_318
+  - first:
+      213: -40865268481321508
+    second: Alert Animated_319
+  - first:
+      213: -3767940059028858021
+    second: Alert Animated_320
+  - first:
+      213: -4846738861789120679
+    second: Alert Animated_321
+  - first:
+      213: -3108418046501035580
+    second: Alert Animated_322
+  - first:
+      213: -2007745078530620873
+    second: Alert Animated_323
+  - first:
+      213: -328261591798414851
+    second: Alert Animated_324
+  - first:
+      213: -6547143689137080926
+    second: Alert Animated_325
+  - first:
+      213: 6373248266768770386
+    second: Alert Animated_326
+  - first:
+      213: -4825455202926294535
+    second: Alert Animated_327
+  - first:
+      213: 1887065021586243150
+    second: Alert Animated_328
+  - first:
+      213: 2159825043551512904
+    second: Alert Animated_329
+  - first:
+      213: -2051070049543958892
+    second: Alert Animated_330
+  - first:
+      213: -2752360706265864921
+    second: Alert Animated_331
+  - first:
+      213: 8086893370791736656
+    second: Alert Animated_332
+  - first:
+      213: 9076083618049551643
+    second: Alert Animated_333
+  - first:
+      213: -211939042760706894
+    second: Alert Animated_334
+  - first:
+      213: 5178923031294848336
+    second: Alert Animated_335
+  - first:
+      213: -1172823276255681945
+    second: Alert Animated_336
+  - first:
+      213: 9169722976806364417
+    second: Alert Animated_337
+  - first:
+      213: -6994329241858836730
+    second: Alert Animated_338
+  - first:
+      213: 5167884077302934049
+    second: Alert Animated_339
+  - first:
+      213: 6611359215734827864
+    second: Alert Animated_340
+  - first:
+      213: -5498443544319785185
+    second: Alert Animated_341
+  - first:
+      213: 8402266882940907222
+    second: Alert Animated_342
+  - first:
+      213: 2576305927322645834
+    second: Alert Animated_343
+  - first:
+      213: -8668986261382584173
+    second: Alert Animated_344
+  - first:
+      213: -2233594031113306755
+    second: Alert Animated_345
+  - first:
+      213: 4667809148437832177
+    second: Alert Animated_346
+  - first:
+      213: -6836053322652819886
+    second: Alert Animated_347
+  - first:
+      213: -6609276572268535615
+    second: Alert Animated_348
+  - first:
+      213: -3562205447348161835
+    second: Alert Animated_349
+  - first:
+      213: 7568537192183628703
+    second: Alert Animated_350
+  - first:
+      213: 8741186440238173087
+    second: Alert Animated_351
+  - first:
+      213: -2549459233880257228
+    second: Alert Animated_352
+  - first:
+      213: 5753991450928257452
+    second: Alert Animated_353
+  - first:
+      213: -4394720587594830003
+    second: Alert Animated_354
+  - first:
+      213: -1550477844359099745
+    second: Alert Animated_355
+  - first:
+      213: 3464238000530003477
+    second: Alert Animated_356
+  - first:
+      213: 1995913531953267954
+    second: Alert Animated_357
+  - first:
+      213: -354168863931284358
+    second: Alert Animated_358
+  - first:
+      213: 1930263025125551214
+    second: Alert Animated_359
+  - first:
+      213: 975474903221375265
+    second: Alert Animated_360
+  - first:
+      213: -2901073556350936667
+    second: Alert Animated_361
+  - first:
+      213: 2226029415595303918
+    second: Alert Animated_362
+  - first:
+      213: -6396740372511135770
+    second: Alert Animated_363
+  - first:
+      213: -413529472116623684
+    second: Alert Animated_364
+  - first:
+      213: 1709056541868521523
+    second: Alert Animated_365
+  - first:
+      213: -7266181568267158328
+    second: Alert Animated_366
+  - first:
+      213: -4384921725512598349
+    second: Alert Animated_367
+  - first:
+      213: 4799354659152915985
+    second: Alert Animated_368
+  - first:
+      213: 5876500116964775099
+    second: Alert Animated_369
+  - first:
+      213: -4641653726397895348
+    second: Alert Animated_370
+  - first:
+      213: 6224810195647540352
+    second: Alert Animated_371
+  - first:
+      213: -7637297761397735607
+    second: Alert Animated_372
+  - first:
+      213: -5481469046353506708
+    second: Alert Animated_373
+  - first:
+      213: 2708913126920228295
+    second: Alert Animated_374
+  - first:
+      213: -5171563989753289375
+    second: Alert Animated_375
+  - first:
+      213: -527083923146655133
+    second: Alert Animated_376
+  - first:
+      213: -6518697637727916997
+    second: Alert Animated_377
+  - first:
+      213: 7046985226906282876
+    second: Alert Animated_378
+  - first:
+      213: 2548666316570438443
+    second: Alert Animated_379
+  - first:
+      213: -4013453213595420317
+    second: Alert Animated_380
+  - first:
+      213: 2788039026339410436
+    second: Alert Animated_381
+  - first:
+      213: -7425130658980255815
+    second: Alert Animated_382
+  - first:
+      213: 7532320041187417983
+    second: Alert Animated_383
+  - first:
+      213: -5309625507163053321
+    second: Alert Animated_384
+  - first:
+      213: -5992592351474774450
+    second: Alert Animated_385
+  - first:
+      213: 1250930705273314240
+    second: Alert Animated_386
+  - first:
+      213: 5667370775160434494
+    second: Alert Animated_387
+  - first:
+      213: 5804015606460889308
+    second: Alert Animated_388
+  - first:
+      213: -6677298349930227505
+    second: Alert Animated_389
+  - first:
+      213: 6350360562306636090
+    second: Alert Animated_390
+  - first:
+      213: -6224036424321525559
+    second: Alert Animated_391
+  - first:
+      213: 6351254582877913130
+    second: Alert Animated_392
+  - first:
+      213: 9015485937923581671
+    second: Alert Animated_393
+  - first:
+      213: -6222018163068969914
+    second: Alert Animated_394
+  - first:
+      213: 8454971432074233448
+    second: Alert Animated_395
+  - first:
+      213: 4041436649378238157
+    second: Alert Animated_396
+  - first:
+      213: 7746637158079319054
+    second: Alert Animated_397
+  - first:
+      213: 4534165205989352229
+    second: Alert Animated_398
+  - first:
+      213: -5716457143885803447
+    second: Alert Animated_399
+  - first:
+      213: 3171827439675043316
+    second: Alert Animated_400
+  - first:
+      213: -8229705287200656168
+    second: Alert Animated_401
+  - first:
+      213: 509198882128080757
+    second: Alert Animated_402
+  - first:
+      213: -9081718366114925169
+    second: Alert Animated_403
+  - first:
+      213: 4822712251305531854
+    second: Alert Animated_404
+  - first:
+      213: -8408758982149441708
+    second: Alert Animated_405
+  - first:
+      213: 2392517261571699377
+    second: Alert Animated_406
+  - first:
+      213: 5559319771403075441
+    second: Alert Animated_407
+  - first:
+      213: -3487935196655444734
+    second: Alert Animated_408
+  - first:
+      213: -2087497112004762750
+    second: Alert Animated_409
+  - first:
+      213: -1681554105951707072
+    second: Alert Animated_410
+  - first:
+      213: 7118499774406032097
+    second: Alert Animated_411
+  - first:
+      213: -4952862229818563947
+    second: Alert Animated_412
+  - first:
+      213: -1546429766371115914
+    second: Alert Animated_413
+  - first:
+      213: 4571280510793977708
+    second: Alert Animated_414
+  - first:
+      213: 2352380595077246445
+    second: Alert Animated_415
+  - first:
+      213: 2248870512012100588
+    second: Alert Animated_416
+  - first:
+      213: 4383190984810011728
+    second: Alert Animated_417
+  - first:
+      213: 829849438875108925
+    second: Alert Animated_418
+  - first:
+      213: 8580327929579735798
+    second: Alert Animated_419
+  - first:
+      213: 2005734603990171618
+    second: Alert Animated_420
+  - first:
+      213: -1387204961428449490
+    second: Alert Animated_421
+  - first:
+      213: -8470599157560587177
+    second: Alert Animated_422
+  - first:
+      213: 2492678437850078967
+    second: Alert Animated_423
+  - first:
+      213: 2959647454160943629
+    second: Alert Animated_424
+  - first:
+      213: 8361517160394634795
+    second: Alert Animated_425
+  - first:
+      213: -2760498504621332897
+    second: Alert Animated_426
+  - first:
+      213: -4536350836976630414
+    second: Alert Animated_427
+  - first:
+      213: -6490295424424336102
+    second: Alert Animated_428
+  - first:
+      213: 278504869771120124
+    second: Alert Animated_429
+  - first:
+      213: -1911685560877854777
+    second: Alert Animated_430
+  - first:
+      213: 2957255205955692390
+    second: Alert Animated_431
+  - first:
+      213: -3517287173041267487
+    second: Alert Animated_432
+  - first:
+      213: 4286202495460843344
+    second: Alert Animated_433
+  - first:
+      213: -8798441462483720751
+    second: Alert Animated_434
+  - first:
+      213: 8921717911822113495
+    second: Alert Animated_435
+  - first:
+      213: 7136674387076393115
+    second: Alert Animated_436
+  - first:
+      213: 8512754698000028545
+    second: Alert Animated_437
+  - first:
+      213: 2957353462181429575
+    second: Alert Animated_438
+  - first:
+      213: 6835844802469024640
+    second: Alert Animated_439
+  - first:
+      213: -6015976946139996035
+    second: Alert Animated_440
+  - first:
+      213: 3304580280131590995
+    second: Alert Animated_441
+  - first:
+      213: -4829959064476518101
+    second: Alert Animated_442
+  - first:
+      213: -4521565656451980997
+    second: Alert Animated_443
+  - first:
+      213: -6299489512304732474
+    second: Alert Animated_444
+  - first:
+      213: -7252588648902431098
+    second: Alert Animated_445
+  - first:
+      213: 2127424706025883014
+    second: Alert Animated_446
+  - first:
+      213: -4826610517491222717
+    second: Alert Animated_447
+  - first:
+      213: -7139202487194768278
+    second: Alert Animated_448
+  - first:
+      213: 743697571089236373
+    second: Alert Animated_449
+  - first:
+      213: 8286466508794243045
+    second: Alert Animated_450
+  - first:
+      213: -2366822970818821374
+    second: Alert Animated_451
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alert Animated_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ddd5c287f1c0e0800000000000000
+      internalID: -2251246197671078990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f307c1a18abaa50800000000000000
+      internalID: 6533500514530770696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ecf60ad02233d0800000000000000
+      internalID: -3228481862079027710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab36dc9aff43c60800000000000000
+      internalID: 7797137959645592297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579070567dca8cf0800000000000000
+      internalID: -249160921326250151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534d82487377e390800000000000000
+      internalID: -7789130070164159663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696e8337ed1176c0800000000000000
+      internalID: -4147500902991894174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c0f28302309e40800000000000000
+      internalID: 5661079722267822022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9743cc6e44fd9fa80800000000000000
+      internalID: -8432463340251630471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e47ef9cba09b0920800000000000000
+      internalID: 2957616647801566439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988381ffc4abdde0800000000000000
+      internalID: -1307270053803882347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639187ebafc92d40800000000000000
+      internalID: 5560203552195973986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d024e700f9b0d690800000000000000
+      internalID: -7579353732288864043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8d3520f6db62a0800000000000000
+      internalID: -6743059690151899438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 638
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880b65ac46b9e6b0800000000000000
+      internalID: -5266477848924059517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4ad547d34572c0800000000000000
+      internalID: -4434563666207421443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6108155e6db1c0800000000000000
+      internalID: -4486308342037124089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0085a31bcdbc5a0800000000000000
+      internalID: -6499858983433011001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf78eee2b65ccee0800000000000000
+      internalID: -1239520470921347144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f890c5e1ffbe10800000000000000
+      internalID: 2215755510770628032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a10b845eee9540800000000000000
+      internalID: 5016709081814116182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961bdb24fe913a270800000000000000
+      internalID: 8260474656935227753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba1783eb31a2650800000000000000
+      internalID: 6208796743995337483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c98e94da4b2610800000000000000
+      internalID: 1597452769886325220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f84e534dcc14910800000000000000
+      internalID: 1819960936243695375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bc419acbbee7b0800000000000000
+      internalID: -5193006841616091892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5724a1ca366f76fa0800000000000000
+      internalID: -5807402286521367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6228e02485b0f930800000000000000
+      internalID: 4175036433664844399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45605c5b798a74e90800000000000000
+      internalID: -7041474122827364780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d51edbeede0d490800000000000000
+      internalID: -7723411751296737945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a7da187fd23a70800000000000000
+      internalID: 8805345928402149828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ef1d3b7a554080800000000000000
+      internalID: -9203850778108762126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4a29e0977eb1c20800000000000000
+      internalID: 3178388469161567424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed06e621af34bfbe0800000000000000
+      internalID: -1442484514312003362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac097f7630bab5ea0800000000000000
+      internalID: -5882920457111891766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73bc50aaadcf75d0800000000000000
+      internalID: -3062503088870083714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372095ad6a6c7a7c0800000000000000
+      internalID: -4060058119121075597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5db64d680b655d0800000000000000
+      internalID: -3074075602497841744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5e6121289f13380800000000000000
+      internalID: -8993132643837614602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad888265653b126c0800000000000000
+      internalID: -4169854596574312230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d70557dd4cf5430800000000000000
+      internalID: 3773951468194790792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fda276458ce47540800000000000000
+      internalID: 5004885143072189940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b3a8be5ca9e290800000000000000
+      internalID: -7860562151773851232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972edddbfad673e70800000000000000
+      internalID: 9094858574070145657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba61678b78278f00800000000000000
+      internalID: 1118907543442254522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f613f6d0b9f64780800000000000000
+      internalID: -8698991092303718665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191cf85b1feb2850800000000000000
+      internalID: 6353434600072288532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f09cd541f3ff020800000000000000
+      internalID: 2377688484980264860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043cb01341db83c90800000000000000
+      internalID: -7189788910677146816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fa65cb98b25b00800000000000000
+      internalID: 815917461679044718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d90ad95d56cf60800000000000000
+      internalID: 8054227624090260123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7319826f986210800000000000000
+      internalID: 1326485335815978035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9da71c1f108fb0800000000000000
+      internalID: -4647680609929553285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2684c02e77981690800000000000000
+      internalID: -7631183000607881683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2488800afc8f10800000000000000
+      internalID: 2273466792112565665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4c0560a08ffab0800000000000000
+      internalID: -4972114037215310918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f219b69bb2378a0800000000000000
+      internalID: -6308650577642311907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert Animated_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52876f458a2bf5d40800000000000000
+      internalID: 5575371299757652005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
